@@ -1,0 +1,41 @@
+{
+    "points": 0,
+    "tasks": [
+        {
+            "id": "e1",
+            "title": "Two Sum",
+            "url": "https://leetcode.com/problems/two-sum/",
+            "topic": "Arrays & Hashing",
+            "difficulty": "Easy",
+            "status": "todo",
+            "notes": ""
+        },
+        {
+            "id": "m1",
+            "title": "3Sum",
+            "url": "https://leetcode.com/problems/3sum/",
+            "topic": "Two Pointers",
+            "difficulty": "Medium",
+            "status": "todo",
+            "notes": ""
+        },
+        {
+            "id": "m2",
+            "title": "Binary Search",
+            "url": "https://leetcode.com/problems/binary-search/",
+            "topic": "Binary Search",
+            "difficulty": "Easy",
+            "status": "todo",
+            "notes": ""
+        },
+        {
+            "id": "h1",
+            "title": "Word Ladder",
+            "url": "https://leetcode.com/problems/word-ladder/",
+            "topic": "Graphs",
+            "difficulty": "Hard",
+            "status": "todo",
+            "notes": ""
+        }
+    ]
+}
