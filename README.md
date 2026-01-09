@@ -1,11 +1,9 @@
+```markdown
 # 🚀 DSA Progress Tracker - NeetCode 150
 
 A personal, web-based tracker designed to help developers organize and visualize their journey through the **NeetCode 150** problem set. This application gamifies the preparation process with a points system and provides detailed statistics on your progress.
 
 **Live Demo:** [https://personaldsatracker.netlify.app/](https://personaldsatracker.netlify.app/)
-
-![Project Screenshot](https://via.placeholder.com/1200x600?text=DSA+Progress+Tracker+Screenshot)
-*(Note: Replace the link above with an actual screenshot of your dashboard once you have one!)*
 
 ## ✨ Features
 
@@ -37,52 +35,60 @@ DSAProgresstracker/
 ├── styles.css         # Styling and layout
 └── README.md          # Project documentation
 
+```
 
+## 🚀 Getting Started
 
-🚀 Getting Started
 To run this project locally on your machine, follow these steps:
 
-Prerequisites
+### Prerequisites
+
 You only need a modern web browser (Chrome, Firefox, Edge, etc.) to run this application.
 
-Installation
-Clone the repository:
+### Installation
 
-Bash
-
+1. **Clone the repository:**
+```bash
 git clone [https://github.com/shubhd556/DSAProgresstracker.git](https://github.com/shubhd556/DSAProgresstracker.git)
-Navigate to the project directory:
 
-Bash
+```
 
+
+2. **Navigate to the project directory:**
+```bash
 cd DSAProgresstracker
-Launch the App: Simply open the index.html file in your web browser.
 
-Optionally, you can use the "Live Server" extension in VS Code for a better development experience.
+```
 
-💡 How to Use
-Select a Topic: Use the dropdowns to filter for specific topics (e.g., "Two Pointers").
 
-Solve a Problem: Click the problem link to visit LeetCode.
+3. **Launch the App:**
+Simply open the `index.html` file in your web browser.
 
-Mark as Done: Check the box next to the problem name. Your "Glory Points" and progress bars will update automatically.
+## 💡 How to Use
 
-Save/Move Data: Use the Export button to download a .json file of your progress. Use Import to upload that file on a different device.
+1. **Select a Topic:** Use the dropdowns to filter for specific topics (e.g., "Two Pointers").
+2. **Solve a Problem:** Click the problem link to visit LeetCode.
+3. **Mark as Done:** Check the box next to the problem name. Your "Glory Points" and progress bars will update automatically.
+4. **Save/Move Data:** Use the **Export** button to download a `.json` file of your progress. Use **Import** to upload that file on a different device.
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! If you have suggestions for new features (like adding the Blind 75 list or dark mode), feel free to fork the repo and submit a pull request.
 
-Fork the Project
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
+## 📄 License
 
-Commit your Changes (git commit -m 'Add some AmazingFeature')
+Distributed under the MIT License.
 
-Push to the Branch (git push origin feature/AmazingFeature)
+---
 
-Open a Pull Request
+Made with ❤️ by [Shubham](https://github.com/shubhd556)
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
+```
 
-Made with ❤️ by Shubham
+```
