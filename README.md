@@ -1,4 +1,3 @@
-```markdown
 # 🚀 DSA Progress Tracker - NeetCode 150
 
 A personal, web-based tracker designed to help developers organize and visualize their journey through the **NeetCode 150** problem set. This application gamifies the preparation process with a points system and provides detailed statistics on your progress.
